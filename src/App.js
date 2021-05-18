@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-testing git akgja ijdgajdglka</a>
+testing git commit</a>
       </header>
     </div>
   );
