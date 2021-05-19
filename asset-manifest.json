@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Pudnaa/vvweb.git/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Pudnaa/vvweb.git/static/js/main.860d9a3b.chunk.js",
+    "main.js.map": "/Pudnaa/vvweb.git/static/js/main.860d9a3b.chunk.js.map",
+    "runtime-main.js": "/Pudnaa/vvweb.git/static/js/runtime-main.93887586.js",
+    "runtime-main.js.map": "/Pudnaa/vvweb.git/static/js/runtime-main.93887586.js.map",
+    "static/js/2.0622283d.chunk.js": "/Pudnaa/vvweb.git/static/js/2.0622283d.chunk.js",
+    "static/js/2.0622283d.chunk.js.map": "/Pudnaa/vvweb.git/static/js/2.0622283d.chunk.js.map",
+    "static/js/3.9e448012.chunk.js": "/Pudnaa/vvweb.git/static/js/3.9e448012.chunk.js",
+    "static/js/3.9e448012.chunk.js.map": "/Pudnaa/vvweb.git/static/js/3.9e448012.chunk.js.map",
+    "index.html": "/Pudnaa/vvweb.git/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Pudnaa/vvweb.git/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.0622283d.chunk.js.LICENSE.txt": "/Pudnaa/vvweb.git/static/js/2.0622283d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Pudnaa/vvweb.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93887586.js",
+    "static/js/2.0622283d.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.860d9a3b.chunk.js"
+  ]
+}
